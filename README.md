@@ -1,4 +1,13 @@
-## Hi there 👋
+# Pantelis Vassilopoulos
+
+AI Engineer in Athens, Greece. Interested in how agents work with real systems, and how models are built from the ground up.
+
+- 🔭 I’m currently working on
+- **[PcapQL](https://github.com/pdvass/PcapQL)** (Rust): A simple packet inspection tool.
+- **[PetTransformer](https://github.com/pdvass/PetTransformer)** (C++20): a transformer language model from scratch. Byte-level BPE, WordPiece and Unigram tokenizers are done, with UTF-8 handling and NFC normalization also written from scratch.
+
+- 📫 How to reach me:
+[LinkedIn](https://linkedin.com/in/pdvass)
 
 <!--
 **pdvass/pdvass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
